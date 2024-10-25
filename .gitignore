@@ -1,0 +1,8 @@
+.DS_Store
+.env
+config.ini
+*.idea
+.ipynb_checkpoints
+__pycache__/
+notebooks
+models
